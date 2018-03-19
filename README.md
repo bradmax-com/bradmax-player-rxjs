@@ -1,6 +1,5 @@
 ___
-![Bradmax][bradmaxLogo]
-![ReactJs][reactJsLogo]
+![Bradmax][bradmaxLogo]![ReactJs][reactJsLogo]
 ___
 This contains [bradmax player][bradmax] ReactJs modules.
 ___
