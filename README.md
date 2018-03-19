@@ -50,5 +50,5 @@ More info @ [bradmax.com][bradmax]
 [git-player-rxjs-example]: https://github.com/bradmax-com/bradmax-player-rxjs-example
 [git-player-js]: https://github.com/bradmax-com/bradmax-player-js
 
-[bradmaxLogo]: ./assets/md/bradmax.svg
-[reactJsLogo]: ./assets/md/rx.svg
+[bradmaxLogo]: https://raw.githubusercontent.com/bradmax-com/bradmax-player-rxjs/master/assets/md/bradmax.svg?sanitize=true
+[reactJsLogo]: https://raw.githubusercontent.com/bradmax-com/bradmax-player-rxjs/master/assets/md/rx.svg?sanitize=true
