@@ -2,7 +2,7 @@ ___
 ![Bradmax][bradmaxLogo]
 ![ReactJs][reactJsLogo]
 ___
-Repository contains [bradmax player][bradmax] ReactJs modules.
+This contains [bradmax player][bradmax] ReactJs modules.
 ___
 ## Npm submodules:
 | name | npm package | language | module | description |
