@@ -1,5 +1,5 @@
 {
-	"name": "@bradmax/player-rx",
+	"name": "@bradmax/player-rxjs",
 	"version": "0.0.1",
 	"description": "Bradmax Player ReactJs npm packages.",
 	"private": true,
