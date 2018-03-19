@@ -2,7 +2,7 @@
 	"name": "@bradmax/player-rxjs",
 	"version": "0.0.1",
 	"description": "Bradmax Player ReactJs npm packages.",
-	"private": true,
+	"private": false,
 	"author": "Piotr Długołęcki <piotr.dlugolecki@bradmax.pl>",
 	"license": "MIT",
 	"keywords": [
@@ -12,6 +12,10 @@
 		"javascript",
 		"typescript"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bradmax-com/bradmax-player-rxjs"
+	},
 	"homepage": "https://bradmax.com",
 	"engines": {
 		"node": "8.9.4",
@@ -35,8 +39,7 @@
 	"babel": {
 		"presets": [
 			"stage-1",
-			"react",
-			[
+			"react", [
 				"latest",
 				{
 					"es2015": {
