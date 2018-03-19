@@ -1,0 +1,54 @@
+{
+	"name": "@bradmax/player-rx",
+	"version": "0.0.1",
+	"description": "Bradmax Player ReactJs npm packages.",
+	"private": true,
+	"author": "Piotr Długołęcki <piotr.dlugolecki@bradmax.pl>",
+	"license": "MIT",
+	"keywords": [
+		"bradmax",
+		"player",
+		"angular",
+		"javascript",
+		"typescript"
+	],
+	"homepage": "https://bradmax.com",
+	"engines": {
+		"node": "8.9.4",
+		"npm": "5.7.1",
+		"yarn": "1.5.1"
+	},
+	"main": ".",
+	"module": "",
+	"es2015": "",
+	"typings": "",
+	"dependencies": {
+		"@bradmax/player": "http://localhost:6969/js",
+		"tslib": "^1.9.0"
+	},
+	"bundledDependencies": [
+		"@bradmax/player"
+	],
+	"peerDependencies": {
+		"react": "^16.2.0"
+	},
+	"babel": {
+		"presets": [
+			"stage-1",
+			"react",
+			[
+				"latest",
+				{
+					"es2015": {
+						"modules": false
+					}
+				}
+			]
+		]
+	},
+	"devDependencies": {
+		"@types/react": "16.0.38",
+		"@types/react-dom": "16.0.4",
+		"tslint-react": "3.5.1"
+	}
+}

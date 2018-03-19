@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"target": "es5",
+		"lib": [ "es2015", "dom" ],
+		"jsx": "react",
+		"noImplicitAny": true,
+		"declaration": true,
+		"sourceMap": true,
+		"allowJs": false,
+		"rootDir": "./src/"
+	},
+	"typeAcquisition": {
+		"enable": true,
+		"include": [
+			"bradmax"
+		]
+	},
+	"exclude": [
+		"node_modules"
+	],
+	"jsx": "react"
+}
