@@ -40,7 +40,7 @@ More info @ [bradmax.com][bradmax]
 [npm-player-ag]: https://npmjs.com/package/bradmax-player-ag
 [npm-player-ng]: https://npmjs.com/package/bradmax-player-ng
 [npm-player-rxjs]: https://npmjs.com/package/bradmax-player-rxjs
-[npm-player-js]: https://npmjs.com/package/bradmax-player-js
+[npm-player]: https://npmjs.com/package/bradmax-player
 [git-player-ag]: https://github.com/bradmax-com/bradmax-player-ag
 [git-player-ag-example]: https://github.com/bradmax-com/bradmax-player-ag-example
 [git-player-ng]: https://github.com/bradmax-com/bradmax-player-ng
