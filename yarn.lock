@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@bradmax/player@^0.0.0":
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/@bradmax/player/-/player-0.0.0.tgz#d8557515a99a0d7acce58a216f96898dd63960cb"
+"@bradmax/player@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@bradmax/player/-/player-0.1.0.tgz#8691ab1b29abe0bd47a763cf362ccec756e1390c"
 
 "@types/node@*":
   version "9.4.7"
@@ -17,9 +17,19 @@
     "@types/node" "*"
     "@types/react" "*"
 
-"@types/react@*", "@types/react@16.0.40":
+"@types/react@*":
   version "16.0.40"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.0.40.tgz#caabc2296886f40b67f6fc80f0f3464476461df9"
+
+"@types/react@16.3.5":
+  version "16.3.5"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.3.5.tgz#bd3b21285602ea7cadb4b9e0d9711d96fd5692cc"
+  dependencies:
+    csstype "^2.0.0"
+
+csstype@^2.0.0:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.1.1.tgz#37b01a7a9958ef0b88167ff6678deccd732e0ae2"
 
 tslib@^1.8.1, tslib@^1.9.0:
   version "1.9.0"
