@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@bradmax/player@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@bradmax/player/-/player-0.1.1.tgz#398806e72fff16986cbad06107734d7c56f84f59"
+"@bradmax/player@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@bradmax/player/-/player-0.1.2.tgz#ee7c3196262b2003a9810dedea4bf846af101bf2"
 
 "@types/node@*":
   version "9.4.7"

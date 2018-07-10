@@ -1,6 +1,6 @@
 {
 	"name": "@bradmax/player-rxjs",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Bradmax Player ReactJs.",
 	"author": "Piotr Długołęcki <piotr.dlugolecki@bradmax.pl>",
 	"license": "MIT",
@@ -21,7 +21,7 @@
 	"es2015": "",
 	"typings": "",
 	"dependencies": {
-		"@bradmax/player": "^0.1.1",
+		"@bradmax/player": "^0.1.2",
 		"tslib": "^1.9.3"
 	},
 	"bundledDependencies": [
