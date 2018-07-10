@@ -1,6 +1,6 @@
 {
 	"name": "@bradmax/player-rxjs",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Bradmax Player ReactJs.",
 	"author": "Piotr Długołęcki <piotr.dlugolecki@bradmax.pl>",
 	"license": "MIT",
@@ -16,24 +16,19 @@
 		"url": "https://github.com/bradmax-com/bradmax-player-rxjs"
 	},
 	"homepage": "https://bradmax.com",
-	"engines": {
-		"node": "8.9.4",
-		"npm": "5.8.0",
-		"yarn": "1.5.1"
-	},
 	"main": ".",
 	"module": "",
 	"es2015": "",
 	"typings": "",
 	"dependencies": {
-		"@bradmax/player": "^0.1.0",
-		"tslib": "^1.9.0"
+		"@bradmax/player": "^0.1.1",
+		"tslib": "^1.9.3"
 	},
 	"bundledDependencies": [
 		"@bradmax/player"
 	],
 	"peerDependencies": {
-		"react": "^16.3.1"
+		"react": "^16.4.1"
 	},
 	"babel": {
 		"presets": [
@@ -50,8 +45,8 @@
 		]
 	},
 	"devDependencies": {
-		"@types/react": "16.3.5",
-		"@types/react-dom": "16.0.4",
-		"tslint-react": "3.5.1"
+		"@types/react": "16.4.6",
+		"@types/react-dom": "16.0.6",
+		"tslint-react": "3.6.0"
 	}
 }
